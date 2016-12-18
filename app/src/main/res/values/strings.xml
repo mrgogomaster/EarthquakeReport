@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Earthquake Report</string>
+    <string name="no_earthquakes">No Earthquake Information Found</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
